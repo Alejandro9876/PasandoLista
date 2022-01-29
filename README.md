@@ -12,4 +12,4 @@
 * Rodrigo Rodas Hernández - rodrigo.rodas@ciencias.unam.mx
 * Luis Lopez Canche - llupezcanche@ciencias.unam.mx
 * Erick Ramirez Castillo  - erick0405@ciencias.unam.mx
-
+* Rodriguez Becerril Alejandro - alejandrorodriguezb@ciencias.unam.mx
